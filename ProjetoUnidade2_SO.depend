@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1575052818 source:/home/jaderson/Documentos/ProjetoUnidade2_SO/main.cpp
+	<iostream>
+	"GerenciamentoMemoria.cpp"
+
+1575060316 /home/jaderson/Documentos/ProjetoUnidade2_SO/GerenciamentoMemoria.cpp
+	"GerenciamentoMemoria.h"
+	<bits/stdc++.h>
+	<iostream>
+	<bitset>
+	<stdio.h>
+	<cstring>
+	<string>
+	<cmath>
+
+1574975939 /home/jaderson/Documentos/ProjetoUnidade2_SO/GerenciamentoMemoria.h
+	<iostream>
+	<cstdint>
+	<stdio.h>
+	<stdlib.h>
+
+1575042502 source:c:\users\user\music\projetounidade2_so\main.cpp
+	<iostream>
+	"GerenciamentoMemoria.cpp"
+
+1575140253 c:\users\user\music\projetounidade2_so\gerenciamentomemoria.cpp
+	"GerenciamentoMemoria.h"
+	<bits/stdc++.h>
+	<iostream>
+	<bitset>
+	<stdio.h>
+	<cstring>
+	<string>
+	<cmath>
+
+1575139950 c:\users\user\music\projetounidade2_so\gerenciamentomemoria.h
+	<iostream>
+	<cstdint>
+	<stdio.h>
+	<stdlib.h>
+
